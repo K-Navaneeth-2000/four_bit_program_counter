@@ -1,0 +1,1480 @@
+Setup Client Server Connection at Fri Apr 30 23:15:21 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1084 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1084 & Message sent : a:0000,clk:0,load:0,inc:0,reset:0 
+Message Received From Server-d_out:0000;ov:0;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1084 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1084 & Message sent : a:0000,clk:0,load:0,inc:0,reset:0 
+Message Received From Server-d_out:0000;ov:0;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1088 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1088 & Message sent : a:1111,clk:0,load:1,inc:0,reset:0 
+Message Received From Server-d_out:0000;ov:0;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1088 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1088 & Message sent : a:1111,clk:1,load:1,inc:0,reset:0 
+Message Received From Server-d_out:1111;ov:0;
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1088 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1088 & Message sent : a:1111,clk:1,load:1,inc:1,reset:0 
+Message Received From Server-d_out:0000;ov:0;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1088 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1088 & Message sent : a:1111,clk:1,load:1,inc:1,reset:0 
+Message Received From Server-d_out:1111;ov:0;
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1092 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1092 & Message sent : a:1111,clk:1,load:1,inc:1,reset:0 
+Message Received From Server-d_out:1111;ov:0;
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1092 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1092 & Message sent : a:1111,clk:1,load:0,inc:1,reset:0 
+Message Received From Server-d_out:1111;ov:0;
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1092 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1092 & Message sent : a:1111,clk:1,load:0,inc:1,reset:0 
+Message Received From Server-d_out:1111;ov:0;
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1212 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1212 & Message sent : a:1111,clk:0,load:0,inc:1,reset:0 
+Message Received From Server-d_out:1111;ov:0;
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 0 
+Setup Client Server Connection at Fri Apr 30 23:16:52 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1000 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1000 & Message sent : a:0000,clk:0,load:0,inc:0,reset:0 
+Message Received From Server-d_out:0000;ov:0;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1000 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1000 & Message sent : a:0000,clk:0,load:0,inc:0,reset:0 
+Message Received From Server-d_out:0000;ov:0;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1000 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1000 & Message sent : a:1111,clk:0,load:1,inc:0,reset:0 
+Message Received From Server-d_out:0000;ov:0;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1232 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1232 & Message sent : a:1111,clk:1,load:1,inc:0,reset:0 
+Message Received From Server-d_out:1111;ov:0;
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1240 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1240 & Message sent : a:1111,clk:1,load:1,inc:1,reset:0 
+Message Received From Server-d_out:0000;ov:0;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1240 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1240 & Message sent : a:1111,clk:1,load:1,inc:1,reset:0 
+Message Received From Server-d_out:1111;ov:0;
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1240 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1240 & Message sent : a:1111,clk:1,load:1,inc:1,reset:0 
+Message Received From Server-d_out:1111;ov:0;
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1248 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1248 & Message sent : a:1111,clk:1,load:0,inc:1,reset:0 
+Message Received From Server-d_out:1111;ov:0;
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 820 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 820 & Message sent : a:1111,clk:1,load:0,inc:1,reset:0 
+Message Received From Server-d_out:1111;ov:0;
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1236 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1236 & Message sent : a:1111,clk:0,load:0,inc:1,reset:0 
+Message Received From Server-d_out:1111;ov:0;
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1236 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1236 & Message sent : a:1111,clk:1,load:0,inc:1,reset:0 
+Message Received From Server-d_out:0000;ov:1;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1236 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1236 & Message sent : a:1111,clk:1,load:0,inc:1,reset:0 
+Message Received From Server-d_out:0000;ov:1;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1236 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1236 & Message sent : a:1111,clk:1,load:0,inc:1,reset:0 
+Message Received From Server-d_out:0000;ov:1;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 816 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 816 & Message sent : a:1111,clk:0,load:0,inc:1,reset:0 
+Message Received From Server-d_out:0000;ov:1;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 816 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 816 & Message sent : a:1111,clk:1,load:0,inc:1,reset:0 
+Message Received From Server-d_out:0000;ov:1;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1248 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1248 & Message sent : a:1111,clk:1,load:0,inc:1,reset:0 
+Message Received From Server-d_out:0000;ov:1;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 1 
+Setup Client Server Connection at Sat May 01 12:12:55 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1196 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1196 & Message sent : a:0000,clk:0,load:0,inc:0,reset:0 
+Message Received From Server-d_out:0000;ov:0;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : a:0000,clk:0,load:0,inc:0,reset:0 
+Message Received From Server-d_out:0000;ov:0;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : a:1111,clk:0,load:1,inc:0,reset:0 
+Message Received From Server-d_out:0000;ov:0;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1212 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1212 & Message sent : a:1111,clk:1,load:1,inc:0,reset:0 
+Message Received From Server-d_out:1111;ov:0;
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1212 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1212 & Message sent : a:1111,clk:1,load:1,inc:1,reset:0 
+Message Received From Server-d_out:0000;ov:0;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1212 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1212 & Message sent : a:1111,clk:1,load:1,inc:1,reset:0 
+Message Received From Server-d_out:1111;ov:0;
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1212 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1212 & Message sent : a:1111,clk:1,load:1,inc:1,reset:0 
+Message Received From Server-d_out:1111;ov:0;
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : a:1111,clk:1,load:0,inc:1,reset:0 
+Message Received From Server-d_out:1111;ov:0;
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : a:1111,clk:1,load:0,inc:1,reset:0 
+Message Received From Server-d_out:1111;ov:0;
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1220 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1220 & Message sent : a:1111,clk:0,load:0,inc:1,reset:0 
+Message Received From Server-d_out:1111;ov:0;
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1220 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1220 & Message sent : a:1111,clk:1,load:0,inc:1,reset:0 
+Message Received From Server-d_out:0000;ov:1;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1212 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1212 & Message sent : a:1111,clk:1,load:0,inc:1,reset:0 
+Message Received From Server-d_out:0000;ov:1;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1212 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1212 & Message sent : a:1111,clk:1,load:0,inc:1,reset:0 
+Message Received From Server-d_out:0000;ov:1;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 960 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 960 & Message sent : a:1111,clk:0,load:0,inc:1,reset:0 
+Message Received From Server-d_out:0000;ov:1;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 960 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 960 & Message sent : a:1111,clk:1,load:0,inc:1,reset:0 
+Message Received From Server-d_out:0000;ov:1;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1220 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1220 & Message sent : a:1111,clk:1,load:0,inc:1,reset:0 
+Message Received From Server-d_out:0000;ov:1;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 1 
+Setup Client Server Connection at Sat May 01 12:20:34 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : a:0000,clk:0,load:0,inc:0,reset:0 
+Message Received From Server-d_out:0000;ov:0;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : a:0000,clk:0,load:0,inc:0,reset:0 
+Message Received From Server-d_out:0000;ov:0;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1216 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1216 & Message sent : a:1111,clk:0,load:1,inc:0,reset:0 
+Message Received From Server-d_out:0000;ov:0;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : a:1111,clk:1,load:1,inc:0,reset:0 
+Message Received From Server-d_out:1111;ov:0;
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : a:1111,clk:1,load:1,inc:1,reset:0 
+Message Received From Server-d_out:0000;ov:0;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : a:1111,clk:1,load:1,inc:1,reset:0 
+Message Received From Server-d_out:1111;ov:0;
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : a:1111,clk:1,load:1,inc:1,reset:0 
+Message Received From Server-d_out:1111;ov:0;
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : a:1111,clk:1,load:0,inc:1,reset:0 
+Message Received From Server-d_out:1111;ov:0;
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : a:1111,clk:1,load:0,inc:1,reset:0 
+Message Received From Server-d_out:1111;ov:0;
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : a:1111,clk:0,load:0,inc:1,reset:0 
+Message Received From Server-d_out:1111;ov:0;
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : a:1111,clk:1,load:0,inc:1,reset:0 
+Message Received From Server-d_out:0000;ov:1;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : a:1111,clk:1,load:0,inc:1,reset:0 
+Message Received From Server-d_out:0000;ov:1;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : a:1111,clk:1,load:0,inc:1,reset:0 
+Message Received From Server-d_out:0000;ov:1;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : a:1111,clk:0,load:0,inc:1,reset:0 
+Message Received From Server-d_out:0000;ov:1;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : a:1111,clk:1,load:0,inc:1,reset:0 
+Message Received From Server-d_out:0000;ov:1;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : a:1111,clk:1,load:0,inc:1,reset:0 
+Message Received From Server-d_out:0000;ov:1;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 1 
+Setup Client Server Connection at Sat May 01 12:22:13 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1196 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1196 & Message sent : a:0000,clk:0,load:0,inc:0,reset:0 
+Message Received From Server-d_out:0000;ov:0;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1196 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1196 & Message sent : a:0000,clk:0,load:0,inc:0,reset:0 
+Message Received From Server-d_out:0000;ov:0;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1196 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1196 & Message sent : a:1111,clk:0,load:1,inc:0,reset:0 
+Message Received From Server-d_out:0000;ov:0;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1196 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1196 & Message sent : a:1111,clk:1,load:1,inc:0,reset:0 
+Message Received From Server-d_out:1111;ov:0;
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1196 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1196 & Message sent : a:1111,clk:1,load:1,inc:1,reset:0 
+Message Received From Server-d_out:0000;ov:0;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 956 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 956 & Message sent : a:1111,clk:1,load:1,inc:1,reset:0 
+Message Received From Server-d_out:1111;ov:0;
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 956 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 956 & Message sent : a:1111,clk:1,load:1,inc:1,reset:0 
+Message Received From Server-d_out:1111;ov:0;
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 956 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 956 & Message sent : a:1111,clk:1,load:0,inc:1,reset:0 
+Message Received From Server-d_out:1111;ov:0;
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 956 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 956 & Message sent : a:1111,clk:1,load:0,inc:1,reset:0 
+Message Received From Server-d_out:1111;ov:0;
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : a:1111,clk:0,load:0,inc:1,reset:0 
+Message Received From Server-d_out:1111;ov:0;
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : a:1111,clk:1,load:0,inc:1,reset:0 
+Message Received From Server-d_out:0000;ov:1;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : a:1111,clk:1,load:0,inc:1,reset:0 
+Message Received From Server-d_out:0000;ov:1;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : a:1111,clk:1,load:0,inc:1,reset:0 
+Message Received From Server-d_out:0000;ov:1;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : a:1111,clk:0,load:0,inc:1,reset:0 
+Message Received From Server-d_out:0000;ov:1;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1200 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1200 & Message sent : a:1111,clk:1,load:0,inc:1,reset:0 
+Message Received From Server-d_out:0000;ov:1;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : a:1111,clk:1,load:0,inc:1,reset:0 
+Message Received From Server-d_out:0000;ov:1;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 1 
+Setup Client Server Connection at Sat May 01 12:23:51 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1196 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1196 & Message sent : a:0000,clk:0,load:0,inc:0,reset:0 
+Message Received From Server-d_out:0000;ov:0;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1196 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1196 & Message sent : a:0000,clk:0,load:0,inc:0,reset:0 
+Message Received From Server-d_out:0000;ov:0;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1196 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1196 & Message sent : a:1111,clk:0,load:1,inc:0,reset:0 
+Message Received From Server-d_out:0000;ov:0;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 952 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 952 & Message sent : a:1111,clk:1,load:1,inc:0,reset:0 
+Message Received From Server-d_out:1111;ov:0;
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : a:1111,clk:1,load:1,inc:1,reset:0 
+Message Received From Server-d_out:0000;ov:0;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : a:1111,clk:1,load:1,inc:1,reset:0 
+Message Received From Server-d_out:1111;ov:0;
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : a:1111,clk:1,load:0,inc:1,reset:0 
+Message Received From Server-d_out:1111;ov:0;
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : a:1111,clk:1,load:0,inc:1,reset:0 
+Message Received From Server-d_out:1111;ov:0;
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : a:1111,clk:0,load:0,inc:1,reset:0 
+Message Received From Server-d_out:1111;ov:0;
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : a:1111,clk:1,load:0,inc:1,reset:0 
+Message Received From Server-d_out:0000;ov:1;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : a:1111,clk:1,load:0,inc:1,reset:0 
+Message Received From Server-d_out:0000;ov:1;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : a:1111,clk:1,load:0,inc:1,reset:0 
+Message Received From Server-d_out:0000;ov:1;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : a:1111,clk:0,load:0,inc:1,reset:0 
+Message Received From Server-d_out:0000;ov:1;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : a:1111,clk:1,load:0,inc:1,reset:0 
+Message Received From Server-d_out:0000;ov:1;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : a:1111,clk:1,load:0,inc:1,reset:0 
+Message Received From Server-d_out:0000;ov:1;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 1 
+Setup Client Server Connection at Sat May 01 12:27:19 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1196 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1196 & Message sent : a:0000,clk:0,load:0,inc:0,reset:0 
+Message Received From Server-d_out:0000;ov:0;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1196 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1196 & Message sent : a:0000,clk:0,load:0,inc:0,reset:0 
+Message Received From Server-d_out:0000;ov:0;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1196 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1196 & Message sent : a:1111,clk:0,load:1,inc:0,reset:0 
+Message Received From Server-d_out:0000;ov:0;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1196 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1196 & Message sent : a:1111,clk:1,load:1,inc:0,reset:0 
+Message Received From Server-d_out:1111;ov:0;
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1196 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1196 & Message sent : a:1111,clk:1,load:1,inc:1,reset:0 
+Message Received From Server-d_out:0000;ov:0;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1196 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1196 & Message sent : a:1111,clk:1,load:1,inc:1,reset:0 
+Message Received From Server-d_out:1111;ov:0;
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1196 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1196 & Message sent : a:1111,clk:1,load:0,inc:1,reset:0 
+Message Received From Server-d_out:1111;ov:0;
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1196 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1196 & Message sent : a:1111,clk:1,load:0,inc:1,reset:0 
+Message Received From Server-d_out:1111;ov:0;
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1196 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1196 & Message sent : a:1111,clk:0,load:0,inc:1,reset:0 
+Message Received From Server-d_out:1111;ov:0;
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1196 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1196 & Message sent : a:1111,clk:1,load:0,inc:1,reset:0 
+Message Received From Server-d_out:0000;ov:1;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1196 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1196 & Message sent : a:1111,clk:1,load:0,inc:1,reset:0 
+Message Received From Server-d_out:0000;ov:1;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1196 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1196 & Message sent : a:1111,clk:1,load:0,inc:1,reset:0 
+Message Received From Server-d_out:0000;ov:1;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1196 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1196 & Message sent : a:1111,clk:0,load:0,inc:1,reset:0 
+Message Received From Server-d_out:0000;ov:1;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1196 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1196 & Message sent : a:1111,clk:1,load:0,inc:1,reset:0 
+Message Received From Server-d_out:0000;ov:1;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1196 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1196 & Message sent : a:1111,clk:1,load:0,inc:1,reset:0 
+Message Received From Server-d_out:0000;ov:1;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1196 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1196 & Message sent : a:1111,clk:1,load:0,inc:1,reset:0 
+Message Received From Server-d_out:0000;ov:1;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1196 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1196 & Message sent : a:1111,clk:0,load:0,inc:1,reset:0 
+Message Received From Server-d_out:0000;ov:1;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 1 
+Setup Client Server Connection at Sat May 01 12:28:36 2021
+ 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : a:0000,clk:0,load:0,inc:0,reset:0 
+Message Received From Server-d_out:0000;ov:0;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : a:0000,clk:0,load:0,inc:0,reset:0 
+Message Received From Server-d_out:0000;ov:0;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1204 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1204 & Message sent : a:1111,clk:1,load:1,inc:0,reset:0 
+Message Received From Server-d_out:1111;ov:0;
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1216 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1216 & Message sent : a:1111,clk:0,load:1,inc:0,reset:0 
+Message Received From Server-d_out:1111;ov:0;
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1216 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1216 & Message sent : a:1111,clk:0,load:1,inc:1,reset:0 
+Message Received From Server-d_out:0000;ov:0;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1216 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1216 & Message sent : a:1111,clk:0,load:1,inc:1,reset:0 
+Message Received From Server-d_out:1111;ov:0;
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1216 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1216 & Message sent : a:1111,clk:0,load:0,inc:1,reset:0 
+Message Received From Server-d_out:1111;ov:0;
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 1 
+Client-Bit val is 0 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1216 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1216 & Message sent : a:1111,clk:1,load:0,inc:1,reset:0 
+Message Received From Server-d_out:0000;ov:1;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1216 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1216 & Message sent : a:1111,clk:1,load:0,inc:1,reset:0 
+Message Received From Server-d_out:0000;ov:1;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1216 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1216 & Message sent : a:1111,clk:0,load:0,inc:1,reset:0 
+Message Received From Server-d_out:0000;ov:1;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1216 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1216 & Message sent : a:1111,clk:1,load:0,inc:1,reset:0 
+Message Received From Server-d_out:0000;ov:1;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1216 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1216 & Message sent : a:1111,clk:1,load:0,inc:1,reset:0 
+Message Received From Server-d_out:0000;ov:1;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1216 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1216 & Message sent : a:1111,clk:1,load:0,inc:1,reset:0 
+Message Received From Server-d_out:0000;ov:1;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1216 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1216 & Message sent : a:1111,clk:0,load:0,inc:1,reset:0 
+Message Received From Server-d_out:0000;ov:1;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1216 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1216 & Message sent : a:1111,clk:1,load:0,inc:1,reset:0 
+Message Received From Server-d_out:0000;ov:1;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 1 
+Creating client socket 
+Client-Client Socket created successfully 
+Client- Socket Id : 1216 
+Client-Connecting to server 
+Client-Connected to server 
+Socket Id : 1216 & Message sent : a:1111,clk:1,load:0,inc:1,reset:0 
+Message Received From Server-d_out:0000;ov:1;
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 0 
+Client-Bit val is 1 
